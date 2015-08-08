@@ -3,10 +3,22 @@
 	{
 		"selected_items":
 		[
+			[
+				"getB",
+				"getBitmapData(...)	openfl.display.BitmapData"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "Source/Main.hx",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -60,19 +72,35 @@
 	},
 	"file_history":
 	[
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/ui/SimplestNMEButton.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/ui/PlayerPanel.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/ui/ItemsBar/ItemsBarItem.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/ui/ItemsBar/ItemsBar.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/cards/Card.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/cards/CardsField.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/ui/BitmapNMEText.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/Utils.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/MainMenu.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/app/Game.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/Source/Main.hx",
+		"/Users/admin/Documents/code_school/code/src/Main.hx",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/project.xml",
+		"/Users/admin/Documents/code_school/code/MemoryGame.hxproj",
+		"/Users/admin/Documents/code_school/OpenFLMemoryGame/.gitignore",
 		"/Users/admin/IdeaProjects/urbanquest/project.xml",
 		"/Users/admin/IdeaProjects/urbanquest/build.xml",
 		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -80,6 +108,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";\n",
+			"Utils",
+			"load"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -99,6 +130,34 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Source/Main.hx",
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
